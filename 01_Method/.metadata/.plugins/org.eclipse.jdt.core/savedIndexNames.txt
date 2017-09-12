@@ -1,2 +1,0 @@
-INDEX VERSION 1.129+/Users/Ben/Desktop/JavaSELearning/01_Method/.metadata/.plugins/org.eclipse.jdt.core
-1491078842.index
