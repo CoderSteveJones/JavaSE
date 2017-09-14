@@ -1,6 +1,5 @@
 package com.myArray;
 
-
 public class Student {
 
 	String name;
