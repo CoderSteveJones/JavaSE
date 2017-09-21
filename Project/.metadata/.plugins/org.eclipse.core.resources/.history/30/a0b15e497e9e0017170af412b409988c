@@ -7,7 +7,7 @@ class Circle {
 		this.r  = r;
 	}
 	public Double getArea() {
-		return r * r * Math.PI;
+		return r * r * 3.14;
 	}
 }
 
