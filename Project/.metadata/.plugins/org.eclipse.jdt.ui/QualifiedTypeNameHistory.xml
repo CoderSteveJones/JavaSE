@@ -9,4 +9,5 @@
 <fullyQualifiedTypeName name="java.lang.Boolean"/>
 <fullyQualifiedTypeName name="com.myArray.Student"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.mySingleton.MySingleton"/>
 </qualifiedTypeNameHistroy>
